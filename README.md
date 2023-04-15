@@ -1,4 +1,4 @@
-### Hi, I'm Hyerin 👩🏼‍💻
+### Hi, I'm Hyerin 🌷
 
 <!--
 - 🔭 I’m currently working on ...
@@ -12,7 +12,7 @@
 
 ✈ Web Developer 
 <br />
-🌋 JavaScript(TypeScript) Developer
+⌨ JavaScript(TypeScript) Developer
 <br />
 🏊🏼 Swimmer
 <br />
