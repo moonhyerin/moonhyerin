@@ -1,4 +1,4 @@
-### 👋 Guten Tag, I'm Hyerin 🌈⚡️
+# 👋 Guten Tag, I'm Hyerin 🌈⚡️
 
 <!--
 - 🔭 I’m currently working on ...
@@ -12,8 +12,7 @@
 
 I'm a seasoned web developer from 🇰🇷. Now my life is going on in 🇩🇪. I'm currently finding a cool company  .🛼
 
-🤔 Some facts about me
-<br />
+### 🤔 Some facts about me ...
 ✈ Web Developer 
 <br />
 ⌨ JavaScript(TypeScript) Developer
